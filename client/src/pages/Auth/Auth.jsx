@@ -54,7 +54,7 @@ const Auth = () => {
       {/* left side */}
 
       <div className="a-left">
-      {/* <img src={logo} alt="" style={{width:"200px" ,height:"200px"}} /> */}
+      <img src={logo} alt="" style={{width:"200px" ,height:"200px"}} />
 
         <div className="Webname">
           <h1>PicVista</h1>
